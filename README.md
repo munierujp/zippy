@@ -3,18 +3,19 @@ zip/unzip utility for Mac
 
 ## usage
 ### download
-* [zippy.app](https://github.com/munierujp/zippy/raw/master/zippy.app)  
+* [zippy.app.zip](https://github.com/munierujp/zippy/raw/master/zippy.app.zip)
 
-Click above link to download zippy.
+Click above link to download zippy.  
+And double click `zippy.app.zip` to unzip.
 
 ### zip
-When you drag and drop directory into zippy, zippy will create zip file in same directory(not current directory).
+When you drag and drop directory into zippy.app, zippy will create zip file in same directory(not current directory).
 
 #### example
 * `~/Desktop/sample` -> `~/Desktop/sample.zip`
 
 ### unzip
-When you drag and drop file into zippy, zippy will create directory in same directory(not current directory).
+When you drag and drop file into zippy.app, zippy will create directory in same directory(not current directory).
 
 #### example
 * `~/Desktop/sample.zip` -> `~/Desktop/sample`
