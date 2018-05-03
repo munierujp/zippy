@@ -1,5 +1,5 @@
 # zippy
-zip/unzip utility for Mac
+zip/unzip utility application for Mac
 
 ## Usage
 ### Installation
