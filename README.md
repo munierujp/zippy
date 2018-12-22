@@ -16,8 +16,3 @@ When you drag and drop file into zippy.app, zippy will create directory in same 
 
 #### Example
 * `~/Desktop/sample.zip` -> `~/Desktop/sample`
-
-## Contact
-* [GitHub](https://github.com/munierujp/zippy)
-* [Twitter(English)](http://twitter.com/munieru_en)
-* [Twitter(Japanese)](http://twitter.com/munieru_jp)
