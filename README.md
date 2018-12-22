@@ -6,13 +6,11 @@ zip/unzip utility application for Mac.
 Download `zippy.app.zip` from [Releases page](https://github.com/munierujp/zippy/releases/tag/Releases).
 
 ### Zip
-When you drag and drop directory into zippy.app, zippy will create zip file in same directory(not current directory).
+When you drag and drop directory into zippy.app, zippy will create zip file in same directory　(not current directory).
 
-#### Example
-* `~/Desktop/sample` -> `~/Desktop/sample.zip`
+Example: `~/Desktop/sample` -> `~/Desktop/sample.zip`
 
 ### Unzip
-When you drag and drop file into zippy.app, zippy will create directory in same directory(not current directory).
+When you drag and drop file into zippy.app, zippy will create directory in same directory　(not current directory).
 
-#### Example
-* `~/Desktop/sample.zip` -> `~/Desktop/sample`
+Example: `~/Desktop/sample.zip` -> `~/Desktop/sample`
